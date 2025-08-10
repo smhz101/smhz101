@@ -46,7 +46,8 @@ My work spans **custom WordPress & WooCommerce development, SaaS products, ERP s
 
 ### **GharPar – Beauty at Home Platform**
 
-[Website](https://gharpar.co) | [App](https://app.gharpar.co)  
+<a href="https://gharpar.co" target="_blank">Website</a> | <a href="https://app.gharpar.co" target="_blank">App</a>
+
 **Stack:** WordPress (frontend), Ruby on Rails & Node.js (ERP & backend APIs), React.js (mobile & admin), PostgreSQL
 
 - Designed and developed **end-to-end service platform** for **1M+ active users** and 300+ beauticians.
@@ -58,7 +59,8 @@ My work spans **custom WordPress & WooCommerce development, SaaS products, ERP s
 
 ### **Tooltique – Specialist Tool Retailer**
 
-[Website](https://tooltique.co.uk)  
+<a href="https://tooltique.co.uk" target="_blank">Website</a>
+
 **Stack:** WordPress, WooCommerce, PHP, Plesk-managed dedicated server
 
 - Managed **entire eCommerce platform** for over a decade with **20K+ active products**.
@@ -70,7 +72,8 @@ My work spans **custom WordPress & WooCommerce development, SaaS products, ERP s
 
 ### **WP Auction Manager – Real-Time Bidding Plugin**
 
-[Repository](#)  
+<a href="#" target="_blank">Repository</a>
+
 **Stack:** WordPress, PHP, React.js, Redux, Node.js, Socket.io
 
 - Developed **custom WooCommerce auction product type** with real-time bidding.
@@ -109,8 +112,8 @@ I integrate **advanced AI capabilities** into production systems:
 
 ## 📬 Let’s Connect
 
-- 🌐 Website: [muzammil.dev](https://muzammil.dev)
-- 💼 Upwork: [Muzammil Hussain](https://www.upwork.com/freelancers/muzammil101)
+- 🌐 Website: <a href="https://muzammil.dev" target="_blank">Website</a>
+- 💼 Upwork: <a href="https://www.upwork.com/freelancers/muzammil101" target="_blank">Muzammil Hussain</a>
 - 📧 Email: **sayhi@muzmmil.dev**
 
 ---
