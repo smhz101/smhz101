@@ -3,7 +3,7 @@
 🚀 **Full-Stack Software Engineer | WordPress & WooCommerce Specialist | AI & SaaS Integrations**
 
 With **15+ years** of experience, I craft high-performance web solutions — from custom WordPress plugins and WooCommerce stores to AI-powered applications and complex SaaS platforms.  
-I’ve built and managed projects serving thousands of users, including [GharPar.co](https://gharpar.co), a beauty service platform with 300+ active members, and [Tooltique.co.uk](https://tooltique.co.uk), a long-standing eCommerce store.
+I’ve built and managed projects serving thousands of users, including [GharPar.co](https://gharpar.co), a beauty service platform with 1M+ active members, and [Tooltique.co.uk](https://tooltique.co.uk), a long-standing eCommerce store more than 20k+ products.
 
 ---
 
